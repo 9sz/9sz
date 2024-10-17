@@ -14,8 +14,8 @@
   <img align="center" alt="Matheus-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
-  ##IT professional with a degree in System Analysis and Development, complemented by starting two postgraduate courses in Big Data and Cybercrime/Cybersecurity. Experienced in providing global IT support as an Analyst at NOV. Blue team enthusiast.
-  ##Profissional de TI com formação em Análise e Desenvolvimento de Sistemas, complementada com início de duas pós-graduações em Big Data e Cibercrime/Cibersegurança. Experiente no fornecimento de suporte global de TI como Analista na NOV. Entusiasta do time azul.
+  ## IT professional with a degree in System Analysis and Development, complemented by starting two postgraduate courses in Big Data and Cybercrime/Cybersecurity. Experienced in providing global IT support as an Analyst at NOV. Blue team enthusiast.
+  ## Profissional de TI com formação em Análise e Desenvolvimento de Sistemas, complementada com início de duas pós-graduações em Big Data e Cibercrime/Cibersegurança. Experiente no fornecimento de suporte global de TI como Analista na NOV. Entusiasta do time azul.
 
  
 <div> 
